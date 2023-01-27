@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "title": "How does it work?",
+      "description": "It's very simple! On our page you can see those people who have registered, along with their information. If you want to contact someone, just do it at the address on their card"
+    },
+    {
+      "id": 2,
+      "title": "Who can register?",
+      "description": "Anyone over the age of 18 can register as a user"
+    },
+    {
+      "id": 3,
+      "title": "That cost has?",
+      "description": "Neither! The use of our network is totally free."
+    }
+  ]
+}
