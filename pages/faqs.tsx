@@ -32,7 +32,7 @@ const FAQS: NextPage<IProps> = ({ data }) => {
 
 export async function getStaticProps() {
   const response = await fetch(
-    "https://my-json-server.typicode.com/DH-Esp-Frontend/ctd-fe3-s2-c6-integracion-terminado/db"
+    "https://my-json-server.typicode.com/PedagogiaDHBrasil/ctd-esp-fe3-class6-completed/db"
   );
 
   const data = await response.json();
